@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(15, 2, 91);
+  }
+   h1 {
+    /* color: white; */
+    font-size: 3rem;
+    text-transform: uppercase;
+    /* margin-left: 10%; */
+   }
+
+   /* #subHeading {
+    font-family: "Libre Baskerville", serif; 
+    color: white; 
+    margin-left: 35%;
+   } */
+
+   .picformeme {
+    border: 5px solid white;
+    width: 100%;
+   }
+
+   .MemeBox {
+     font-family: "Libre Baskerville", serif;
+     width: 60%;
+     margin-left: 20%;
+     margin-top: 100px;
+     text-align: center;
+     color: white;
+   }
